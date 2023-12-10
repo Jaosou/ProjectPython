@@ -1,0 +1,7 @@
+title,price ,spec
+Intel Core i5-14600KF,12665,14 cores 20 threads || Base Clock : 3.50 GHz  ||  Boots Clock : 5.3 GHz (NO Graphics)
+Intel Core i5-14600K,13760,14 cores 20 threads || Base Clock : 3.50 GHz  ||  Boots Clock : 5.3 GHz (Intel UHD Graphics 770)
+Intel Core i9-14900K,25140,24 cores 32 threads || Base Clock : 3.20 GHz  ||  Boots Clock : 6.0 GHz (Intel UHD Graphics 770)
+AMD Ryzen 7 7600,"7450",6 cores 12 threads || Base Clock : 3.80 GHz  ||  Boots Clock : 5.10 GHz (AMD Radeon Graphics)
+Intel Core i3-13100F,"4205",4 cores 8 threads || Base Clock : 3.40 GHz  ||  Boots Clock : 4.50 GHz (NO Graphics)
+Intel Core i5-13400F,"7475",10 cores 16 threads || Base Clock : 2.50 GHz  ||  Boots Clock : 4.80 GHz (Intel UHD Graphics 770)
